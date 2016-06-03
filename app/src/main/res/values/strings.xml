@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Twitter for mukeeda</string>
+    <string name="twitter_consumer_key">xxxx</string>
+    <string name="twitter_consumer_secret">xxxx</string>
+    <string name="twitter_oauth">Twitter認証</string>
+    <string name="twitter_callback_url">twittercallback://twitter</string>
+    <string name="menu_refresh">更新</string>
+    <string name="action_settings">settings</string>
+</resources>
